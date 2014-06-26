@@ -1,0 +1,5 @@
+c:\users\administrator.gto-it-y\documents\visual studio 2012\Projects\CardLib\CardLib\bin\Debug\CardLib.dll
+c:\users\administrator.gto-it-y\documents\visual studio 2012\Projects\CardLib\CardLib\bin\Debug\CardLib.pdb
+c:\users\administrator.gto-it-y\documents\visual studio 2012\Projects\CardLib\CardLib\obj\Debug\CardLib.csprojResolveAssemblyReference.cache
+c:\users\administrator.gto-it-y\documents\visual studio 2012\Projects\CardLib\CardLib\obj\Debug\CardLib.dll
+c:\users\administrator.gto-it-y\documents\visual studio 2012\Projects\CardLib\CardLib\obj\Debug\CardLib.pdb

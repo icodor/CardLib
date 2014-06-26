@@ -1,0 +1,8 @@
+C:\Users\Administrator.GTO-IT-Y\Documents\Visual Studio 2012\Projects\CardLib\CardClient\bin\Debug\CardClient.exe.config
+C:\Users\Administrator.GTO-IT-Y\Documents\Visual Studio 2012\Projects\CardLib\CardClient\bin\Debug\CardClient.exe
+C:\Users\Administrator.GTO-IT-Y\Documents\Visual Studio 2012\Projects\CardLib\CardClient\bin\Debug\CardClient.pdb
+C:\Users\Administrator.GTO-IT-Y\Documents\Visual Studio 2012\Projects\CardLib\CardClient\bin\Debug\CardLib.dll
+C:\Users\Administrator.GTO-IT-Y\Documents\Visual Studio 2012\Projects\CardLib\CardClient\bin\Debug\CardLib.pdb
+C:\Users\Administrator.GTO-IT-Y\Documents\Visual Studio 2012\Projects\CardLib\CardClient\obj\Debug\CardClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.GTO-IT-Y\Documents\Visual Studio 2012\Projects\CardLib\CardClient\obj\Debug\CardClient.exe
+C:\Users\Administrator.GTO-IT-Y\Documents\Visual Studio 2012\Projects\CardLib\CardClient\obj\Debug\CardClient.pdb
